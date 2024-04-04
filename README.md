@@ -4,6 +4,10 @@ Unity custom editor window to update exported animation clips from their source 
 
 Update animations easily without losing events or settings.
 
+![Screenshot of the plugin](Screenshot.png)
+
+# Usage
+
 When creating animations for a game, there is most often several iterations before the animations are finished.
 Whenever new animations are made and exported to and FBX then imported in Unity, the engine will automatically update the animations that have the same names.
 This is great when using the animations as is, or with minimal change in settings that you set within the model importer.  
