@@ -27,4 +27,6 @@ This script aims to solve that issue:
 
 Using this script, you will also avoid losing any reference to the clips (e.g. in animators).
 
-I hope this is helpful, if you have any suggestions, complaints or feel like something isn't right about this script, contact me at primarter@gmail.com.
+If you use this script or found it helpful, I'd appreciate proper credit and would love to hear about it.
+
+If you have any suggestions, complaints or feel like something isn't right about this script, contact me at primarter@gmail.com.
